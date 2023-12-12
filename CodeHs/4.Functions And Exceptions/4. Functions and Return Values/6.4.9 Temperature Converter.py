@@ -19,7 +19,7 @@ print(convert_C_to_F(0))
 print(convert_C_to_F(100))
 
 # Change 40F to C:
-convert_F_to_C(40)
+print(convert_F_to_C(40))
 
 # Change 80F to C:
-convert_F_to_C(80)
+print(convert_F_to_C(80))
